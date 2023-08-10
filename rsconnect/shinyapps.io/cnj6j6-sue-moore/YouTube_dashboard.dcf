@@ -1,0 +1,12 @@
+name: YouTube_dashboard
+title: YouTube_dashboard
+username: cnj6j6-sue-moore
+account: cnj6j6-sue-moore
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9584749
+bundleId: 7552791
+url: https://cnj6j6-sue-moore.shinyapps.io/YouTube_dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
